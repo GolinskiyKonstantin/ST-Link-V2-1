@@ -19,9 +19,6 @@ KEIL RVMDK V4.21 или выше
 ![](https://github.com/GolinskiyKonstantin/ST-Link-V2-1/blob/master/image/003.jpg)
 ![](https://github.com/GolinskiyKonstantin/ST-Link-V2-1/blob/master/image/002.jpg)
 
-## Схема:
-![СХЕМА:](https://github.com/GolinskiyKonstantin/ST-Link-V2-1/blob/master/Schematic_ST-Link_v2.1.pdf)
-
 ## Ссылка на проект:
 [СХЕМА И ПЕЧАТНАЯ ПЛАТА:](https://easyeda.com/golinskiy.konstantin/my-st-link-v2-1/)
 
