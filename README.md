@@ -25,6 +25,8 @@ Protected-2-1-Bootloader.bin - прошивка
 	6) для работы версии 2-1 и VCP устанавливаем драйвера которые идут в данном архиве.
 	
 ## ФОТО ГОТОВОГО ИЗДЕЛИЯ:
+![](https://github.com/GolinskiyKonstantin/ST-Link-V2-1/blob/master/image/ST_Link_V2-1_Type-C_2.jpg)
+![](https://github.com/GolinskiyKonstantin/ST-Link-V2-1/blob/master/image/ST_Link_V2-1_Type-C_4.jpg)
 ![](https://github.com/GolinskiyKonstantin/ST-Link-V2-1/blob/master/image/ST-Link_v2-1_REV_Type-C_1.png)
 ![](https://github.com/GolinskiyKonstantin/ST-Link-V2-1/blob/master/image/ST-Link_v2-1_REV_Type-C_2.png)
 
